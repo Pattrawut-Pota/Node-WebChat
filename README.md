@@ -1,2 +1,2 @@
 # Node-WebChat
-Repository ทดสอบการทำงานเป็นทีมของการพัฒนาโปรแกรม NodeJs SocketIO
+Repository ทดสอบการทำงานเป็นทีมของการพัฒนาโปรแกรม NodeJs Socket IO
